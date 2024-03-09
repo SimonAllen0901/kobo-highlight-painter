@@ -1,0 +1,11 @@
+{
+  "name": "kobo-highlight-painter",
+  "version": "1.0.0",
+  "description": "Export your Kobo e-reader highlights into a Markdown file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SimonAllen0901",
+  "license": "MIT"
+}
