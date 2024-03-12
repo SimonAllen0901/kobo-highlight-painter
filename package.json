@@ -4,6 +4,7 @@
   "description": "Export your Kobo e-reader highlights into a Markdown file.",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "SimonAllen0901",
